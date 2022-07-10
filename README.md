@@ -1,2 +1,2 @@
-# Akela-Maymuncuk
-# Bu script Akela tarafından hazırlanmıştır. İletişim için discord: Zaitsev#3636
+# Bu script Akela tarafından hazırlanmıştır. 
+İletişim için discord: Zaitsev#3636
